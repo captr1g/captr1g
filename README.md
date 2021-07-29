@@ -73,7 +73,7 @@
 
 
 
-<div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
+<div align="center"><strong>Show some ❤️️ by starring ⭐ some of the repositories!</strong></div>
 
 
 ---
