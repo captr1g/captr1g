@@ -47,7 +47,7 @@
 
  
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=captr1g) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=captr1g&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=captr1g&theme=github-compact)](https://github.com/captr1g/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/captr1g)
 
 
