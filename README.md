@@ -46,9 +46,9 @@
 
 
  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=captr1g) -->
-<!-- [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=captr1g&theme=github-compact)](https://github.com/captr1g/github-readme-activity-graph)
-![GitHub metrics](https://metrics.lecoq.io/captr1g) -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=captr1g)-->
+[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=captr1g&theme=github-compact)](https://github.com/captr1g/github-readme-activity-graph)
+![GitHub metrics](https://metrics.lecoq.io/captr1g)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
