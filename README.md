@@ -34,10 +34,12 @@
 <br/>
 
 
-<summary>:trophy: Github Profile Trophy</summary>
+<!-- <summary>:trophy: Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=captr1g&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  -->
   
+
   
   <summary>:fire: GitHub Streak</summary>
  <br>
