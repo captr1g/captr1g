@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>                                                                           
 
 
-- 🤔 &nbsp; Exploring new technologies and being a coding enthusiastic.
+- 🤔 &nbsp; Exploring new technologies and being a coding enthusiast.
 - 🎓 &nbsp; Studying Computer Science and Engineering at HKBK College Of Engineering.
-- 🌱 &nbsp; Learning more about Blockchain, Open Soucre and Web Devlopment.
-<!-- - ✍️ &nbsp; Pursuing Technical Content Writing and some other tech stuffs. -->
+- 🌱 &nbsp; Learning more about Blockchain, Open Source, and Web Development.
+<!-- - ✍️ &nbsp; Pursuing Technical Content Writing and some other tech stuff. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,7 +38,8 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=captr1g&theme=monokai&row=1&no-frame=true&no-bg=true/">
   -->
-  
+ 
+
 
   
   <summary>:fire: GitHub Streak</summary>
