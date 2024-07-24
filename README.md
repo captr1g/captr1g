@@ -52,7 +52,7 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=captr1g)-->
 <!-- [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=captr1g&theme=github-compact)](https://github.com/captr1g/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/captr1g) -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Captr1g's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=captr1g&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Captr1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Captr1g&theme=github-compact)](https://github.com/Captr1g/github-readme-activity-graph)
 
 
 
