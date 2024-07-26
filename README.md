@@ -24,6 +24,10 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Static Badge](https://img.shields.io/badge/Solidity-333333?style=flat&logo=Solidity&label=%20)
+  ![Static Badge](https://img.shields.io/badge/Ethereum-333333?style=flat&logo=Ethereum)
+  ![Static Badge](https://img.shields.io/badge/Ether.js-333333?style=flat&logo=Ethers&label=%20)
+  ![Static Badge](https://img.shields.io/badge/Web3.js-333333?style=flat&logo=Web3.js&label=%20)
 <br/>
 
 <a href="https://github.com/captr1g">
