@@ -14,13 +14,10 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  <!-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)] -->
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  <!-- ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)-->
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -37,25 +34,12 @@
 
 <br/>
 
-
-<!-- <summary>:trophy: Github Profile Trophy</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=captr1g&theme=monokai&row=1&no-frame=true&no-bg=true/">
-  -->
- 
-
-
-  
   <summary>:fire: GitHub Streak</summary>
  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captr1g&" alt="captr1g" /></p>
-<br><br>
+<br><be>
 
 
- 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=captr1g)-->
-<!-- [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=captr1g&theme=github-compact)](https://github.com/captr1g/github-readme-activity-graph)
-![GitHub metrics](https://metrics.lecoq.io/captr1g) -->
 [![Captr1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Captr1g&theme=github-compact)](https://github.com/Captr1g/github-readme-activity-graph)
 
 
@@ -78,8 +62,6 @@
 <a href="https://twitter.com/YashRajSaxena5">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
- <!-- <a href="https://codeaholic-shub.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
- </p> -->
 
 
 
