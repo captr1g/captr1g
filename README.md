@@ -13,6 +13,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Static Badge](https://img.shields.io/badge/Solidity-333333?style=flat&logo=Solidity&label=%20)
+  ![Static Badge](https://img.shields.io/badge/Ethereum-333333?style=flat&logo=Ethereum)
+  ![Static Badge](https://img.shields.io/badge/Ether.js-333333?style=flat&logo=Ethers&label=%20)
+  ![Static Badge](https://img.shields.io/badge/Web3.js-333333?style=flat&logo=Web3.js&label=%20)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -21,10 +25,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Static Badge](https://img.shields.io/badge/Solidity-333333?style=flat&logo=Solidity&label=%20)
-  ![Static Badge](https://img.shields.io/badge/Ethereum-333333?style=flat&logo=Ethereum)
-  ![Static Badge](https://img.shields.io/badge/Ether.js-333333?style=flat&logo=Ethers&label=%20)
-  ![Static Badge](https://img.shields.io/badge/Web3.js-333333?style=flat&logo=Web3.js&label=%20)
 <br/>
 
 <a href="https://github.com/captr1g">
@@ -34,13 +34,13 @@
 
 <br/>
 
-  <summary>:fire: GitHub Streak</summary>
+  <!-- <summary>:fire: GitHub Streak</summary>
  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captr1g&" alt="captr1g" /></p>
-<br><be>
+<br><be>-->
 
 
-[![Captr1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Captr1g&theme=github-compact)](https://github.com/Captr1g/github-readme-activity-graph)
+<!-- [![Captr1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Captr1g&theme=github-compact)](https://github.com/Captr1g/github-readme-activity-graph)-->
 
 
 
