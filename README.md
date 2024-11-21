@@ -6,7 +6,7 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and being a coding enthusiast.
-- 🎓 &nbsp; Studying Computer Science and Engineering at HKBK College Of Engineering.
+- 🎓 &nbsp; Studied Computer Science and Engineering at HKBK College Of Engineering.
 - 🌱 &nbsp; Learning more about Blockchain, Open Source, and Web Development.
 <!-- - ✍️ &nbsp; Pursuing Technical Content Writing and some other tech stuff. -->
 
